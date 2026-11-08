@@ -3,10 +3,11 @@
 
 Driven Computer Science Engineer specializing in **Generative AI Orchestration, Enterprise Data Analytics, and Core Algorithmic Architectures**. Highly active in the tech ecosystem, bridging corporate data operations with continuous technical community networking across major MNC events.
 
-[![LinkedIn](https://shields.io)](https://linkedin.com)
-[![GitHub](https://shields.io)](https://github.com)
-[![Email](https://shields.io)](mailto:lathishsatish2006@gmail.com)
-[![Live App](https://shields.io)](https://lovable.app)
+<p align="left">
+  <a href="https://linkedin.com"><img src="https://shields.io" alt="LinkedIn" /></a>
+  <a href="mailto:lathishsatish2006@gmail.com"><img src="https://shields.io" alt="Email" /></a>
+  <a href="https://techwithlathish.lovable.app"><img src="https://shields.io" alt="Live Apps" /></a>
+</p>
 
 ---
 
@@ -105,9 +106,11 @@ Driven Computer Science Engineer specializing in **Generative AI Orchestration, 
 
 ## 📊 Live Coding Metrics & System Analytics
 
+## 📊 Live Coding Metrics & System Analytics
+
 <p align="left">
-  <img src="https://vercel.app" height="180em" alt="Lathish's GitHub Stats" />
-  <img src="https://vercel.app" height="180em" alt="Top Languages Used" />
+  <img src="https://vercel.app" height="195em" alt="Lathish's GitHub Stats" />
+  <img src="https://vercel.app" height="195em" alt="Top Languages Used" />
 </p>
 
 <p align="left">
