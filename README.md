@@ -76,14 +76,14 @@ Driven Computer Science Engineer specializing in **Generative AI Orchestration, 
 
 ## 🚀 Production Showcases & Engineering Research
 
-### 🧠 1. [Fair Check AI — Algorithmic Fairness & Bias Auditing Platform](https://lovable.app)
+### 🧠 1. [Fair Check AI — Algorithmic Fairness & Bias Auditing Platform](https://techwithlathish.lovable.app)
 *An automated validation engine built during a high-speed sprint constraint to scan natural language payloads and analytical datasets for deep ethical risks and data imbalance.*
 * **Architectural Stack:** Lovable.app, React, TypeScript, Tailwind CSS, Generative AI APIs, Supabase.
 * **Engineering Impact:** 
   * Acted as Systems Architect to build an analytical bias-detection playground bypassing manual boilerplate coding.
   * Engineered clean interface schemas to parse data matrices and prompt LLM nodes for contextual fairness evaluations.
 * **Core Value:** Automates production bias evaluations, enabling engineers to build ethical, compliant datasets before deployment.
-* [🌐 Live Application Build](https://lovable.app) | [📁 View Repository](https://github.com)
+* [🌐 Live Application Build](https://techwithlathish.lovable.app) | [📁 View Repository](https://github.com)
 
 ### 🗺️ 2. PathFinder-X — Graph Navigation & Route Optimization Visualizer
 *A high-fidelity algorithmic mapping interface designed to model urban navigation networks as complex weighted graph layouts.*
@@ -103,8 +103,6 @@ Driven Computer Science Engineer specializing in **Generative AI Orchestration, 
 *   **EY Techathon 6.0:** Advanced through competitive verification rounds by authoring a structured technical Executive Summary.
 
 ---
-
-## 📊 Live Coding Metrics & System Analytics
 
 ## 📊 Live Coding Metrics & System Analytics
 
